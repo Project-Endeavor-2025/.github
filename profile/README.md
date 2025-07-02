@@ -1,5 +1,7 @@
 # Project Endeavor
 
+![Weather Balloon flying](https://github.com/user-attachments/assets/4139ecf9-a8dd-4022-97f3-8fe69cd62714)
+
 Project Endeavor is a student-led, independent organisation engineering a high-altitude weather balloon equipped with sensors and instruments to collect a multitude of data points across different levels of the atmosphere
 
 <!--
